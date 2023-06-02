@@ -11,12 +11,12 @@ Links:
 
 ## 👨‍🎨CSS
 Flexbox is the most important thing to understand!
-* Basics [W3Schools CSS tutorial](https://www.w3schools.com/html/default.asp)
+* Basics [W3Schools CSS tutorial](https://www.w3schools.com/css/default.asp)
 * Practical usage and responsive [freeCodeCamp.org](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/)
 
 ## 🧠JAVASCRIPT
 Good luck :)
-* Basics [W3Schools JS tutorial](https://www.w3schools.com/html/default.asp)
+* Basics [W3Schools JS tutorial](https://www.w3schools.com/js/default.asp)
 * Algorithms and Data Structures [freeCodeCamp.org](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * [JS CheatSheet](https://htmlcheatsheet.com/js/)
